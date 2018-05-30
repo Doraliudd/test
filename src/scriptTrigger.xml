@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+	<config>
+		<trigger>
+			<object>lead</object>
+			<operate>add</operate>
+			<position>before</position>
+			<order>1</order>
+			<class>other.ajbckk.bdicfkbfkkfaa.TriggerAndThrowsException</class>
+		</trigger>
+	</config>
+</configs>
+
